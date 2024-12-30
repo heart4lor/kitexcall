@@ -5,7 +5,7 @@ go 1.21
 require (
 	github.com/bytedance/gopkg v0.1.1
 	github.com/cloudwego/dynamicgo v0.4.4
-	github.com/cloudwego/kitex v0.11.3
+	github.com/cloudwego/kitex v0.12.0
 )
 
 require (
