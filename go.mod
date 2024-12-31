@@ -1,4 +1,4 @@
-module github.com/kitex-contrib/kitexcall
+module github.com/heart4lor/kitexcall
 
 go 1.21
 
@@ -6,6 +6,7 @@ require (
 	github.com/bytedance/gopkg v0.1.1
 	github.com/cloudwego/dynamicgo v0.4.4
 	github.com/cloudwego/kitex v0.12.0
+	github.com/choleraehyq/pid v0.0.19
 )
 
 require (
